@@ -1,5 +1,6 @@
 # Wasserstein MDN using PyTorch
-This is the PyTorch source code for "Semi-Supervised Conditional Density Estimation with Wasserstein Mixture Density Networks". 
+This is the PyTorch source code for "Semi-Supervised Conditional Density Estimation with Wasserstein Mixture Density Networks".
+This is accompanying code for the AAAI 2021 paper by Olivier Graffeuille, Yun Sing Koh, Jörg Wicker and Moritz Lehmann.
 
 ### What is implemented
 WMDN code is supplied (WMDN.py) along with a running Jupyter notebook example (run_WMDN.ipynb).
