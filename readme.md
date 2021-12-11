@@ -13,5 +13,4 @@ Code was tested with:
 - scikit-learn 0.23.2
 
 ### Datasets
-All datasets are available in the data folder, with the exception of the Real chlorophyll-a dataset, which is not currently publically available. 
-We note that some datasets have not been included in Supplementary Material, due to size restrictions.
+All datasets are available in the data folder, with the exception of the Real chlorophyll-a dataset as it is not currently publically available, and the Song Year and Electric datasets due to size restrictions.
